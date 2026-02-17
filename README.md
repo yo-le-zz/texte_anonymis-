@@ -156,5 +156,3 @@ Ce projet est distribué sous licence MIT.
 
 # 👤 Auteur
 yo-le-zz
-<p align="center"> Fait avec Python </p> ```
-Affichage et sauvegarde : comparaison texte original vs reformulé et option pour enregistrer.
